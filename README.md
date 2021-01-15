@@ -3,3 +3,5 @@ It is a Emotion Recognition Application executed using Flask. Emotions such as H
 
 The emotion recognition system can be tested by running a previously uploaded videos or the user can give camera access to the application to check the real time model performance.
 
+![Optional Text](../master/static/camera_access.png)
+
