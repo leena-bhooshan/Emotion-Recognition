@@ -13,7 +13,7 @@ STEPS TO RUN THE MODEL ON LOCAL COMPUTER
   >git clone https://github.com/leena-bhooshan/Emotion-Recognition
 
 2. Open CMD or Git Bash and navigate to that directory.
-  >cd <path to the directory>
+  >cd PATH_TO_DIRECTORY
 
 3. Now create a virtual enviroment in which we will run our application. By doing this we can run our application in isolation.
   >python virtualenv venv
@@ -33,8 +33,8 @@ STEPS TO RUN THE MODEL ON LOCAL COMPUTER
 8. Now, the last step which executes the application on locahost using flask.
   >flask run
 
-  ENJOY THE APPLICATION!!!
-  FEEL FREE TO CONTRIBUTE TO THIS APPLICATION...
+  ENJOY THE APPLICATION!!!    
+  FEEL FREE TO CONTRIBUTE TO THIS APPLICATION . . .
 
   
  
